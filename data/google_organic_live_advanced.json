@@ -1,0 +1,57 @@
+{
+    "version": "0.1.20220428",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "32.1347 sec.",
+    "cost": 0.002,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05261237-3760-0139-0000-673a812c2add",
+            "status_code": 40102,
+            "status_message": "No Search Results.",
+            "time": "32.0766 sec.",
+            "cost": 0.002,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "serp",
+                "google",
+                "organic",
+                "live",
+                "advanced"
+            ],
+            "data": {
+                "api": "serp",
+                "function": "live",
+                "se": "google",
+                "se_type": "organic",
+                "language_name": "English",
+                "location_name": "United States",
+                "keyword": "albert einstein",
+                "search_param": "tbm=nws",
+                "depth": 10,
+                "calculate_rectangles": false,
+                "device": "desktop",
+                "os": "windows"
+            },
+            "result": [
+                {
+                    "keyword": "albert einstein",
+                    "type": "organic",
+                    "se_domain": "google.com",
+                    "location_code": 2840,
+                    "language_code": "en",
+                    "check_url": "https://www.google.com/search?q=albert%20einstein&num=10&hl=en&gl=US&gws_rd=cr&ie=UTF-8&oe=UTF-8&tbm=nws&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                    "datetime": "2022-05-26 09:37:32 +00:00",
+                    "spell": null,
+                    "item_types": null,
+                    "se_results_count": 2560000,
+                    "items_count": 0,
+                    "items": null
+                }
+            ]
+        }
+    ]
+}
